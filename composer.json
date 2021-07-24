@@ -1,0 +1,14 @@
+{
+    "name": "abur/project1",
+    "description": "first project in aburaihan",
+    "type": "project",
+    "autoload" : {
+        "psr-4": {
+            "App\\": "app/"
+        },
+        "files": ["app/functions.php"]
+
+}
+
+
+}
